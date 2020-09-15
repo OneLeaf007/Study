@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>../GitTest007</module>
+        <module>../FitTest008</module>
     </modules>
 
 
